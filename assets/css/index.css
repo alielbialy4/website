@@ -12137,12 +12137,6 @@ th {
   font-size: 1.85rem;
 }
 
-.testmonial-card .testmonial-subtitle {
-  font-size: 0.8rem;
-  letter-spacing: 1px;
-  opacity: 0.8;
-}
-
 .testmonial-card .testmonial-body {
   position: relative;
   padding: 1rem;
@@ -12426,6 +12420,7 @@ pre {
 
 .section-title {
   font-size: 4rem;
+  color: #FFEA11;
 }
 
 .has-height-xs {
@@ -12515,17 +12510,15 @@ pre {
   padding: 14px 20px 14px 20px;
 }
 
-/* Twitter */
-.fa-twitter {
-  color: #55ACEE;
-}
-
 .fa-whatsapp {
   color: #24d997;
 }
 
 .fa-phone {
   color: #24d997;
+}
+.fa-instagram {
+  color: #FF0063;
 }
 
 .animate-charcter {
