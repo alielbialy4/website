@@ -12489,36 +12489,31 @@ pre {
   opacity: 1;
 }
 
-/* Style all font awesome icons */
 .fa {
   font-size: 30px;
   text-decoration: none;
   margin-right: 20px;
-  border: 1px solid #fff;
   padding: 15px;
+  border: 1px solid #FFFFFF;
   border-radius: 30%;
 }
 
-/* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.7;
   color: #FFFFFF;
 }
 
-.fa-facebook {
-  color: #55ACEE;
-  padding: 14px 20px 14px 20px;
-}
-
 .fa-whatsapp {
-  color: #24d997;
+  color: #fff;
+  background-color: #24d997;
 }
-
 .fa-phone {
-  color: #24d997;
+  color: #fff;
+  background-color: #24d997;
 }
 .fa-instagram {
-  color: #FF0063;
+  color: #fff;
+  background-color: #FF0063;
 }
 
 .animate-charcter {
