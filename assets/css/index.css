@@ -4856,7 +4856,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link {
-  display: block;
+  display: -webkit-box;
   padding: 0.5rem 1rem;
 }
 
@@ -12244,10 +12244,10 @@ pre {
 }
 
 .custom-navbar .collapse .navbar-nav:last-child {
-  -webkit-box-pack: end;
-  -webkit-justify-content: flex-end;
-  -ms-flex-pack: end;
-  justify-content: flex-end;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
 }
 
 .navbar-brand {
